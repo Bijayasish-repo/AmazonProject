@@ -1,4 +1,4 @@
-Feature: Login to Amazon.co.in
+Feature: Test Amazon As Guest
 
 Scenario: User successfully logs in to Amazon homepage
 	Given User is on Amazon Login Page
